@@ -1,4 +1,4 @@
-![image](https://github.com/hasil7677/multidiesase-prediction-using-CNN/assets/89244981/87b0ae88-242e-4340-966e-22d7eafda992)# Multiple-Disease-Prediction-System-using-Machine-Learning
+
 
 
 
