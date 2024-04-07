@@ -10,8 +10,7 @@ Multiple Disease Prediction System using Machine Learning: This project provides
 - [Features](#features)
 - [Setup](#setup)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
