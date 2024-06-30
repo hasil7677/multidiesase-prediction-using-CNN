@@ -33,7 +33,7 @@ To use this project locally, follow these steps:
 1. Clone the repository:
    
 ```bash
-git clone https://github.com/SagarMandal7/Multiple-Disease-Prediction-System-using-Machine-Learning/tree/main
+git clone https://github.com/hasil7677/multidiesase-prediction-using-CNN.git
 ```
 
 2. Install the required dependencies by running:
