@@ -1,6 +1,4 @@
 import pickle
-00000
-00
 import streamlit as st
 from streamlit_option_menu import option_menu
 
@@ -29,12 +27,7 @@ with st.sidebar:
 st.title("Multiple Disease Prediction System")
     
 # Diabetes Prediction Page
-if (selected == 'Diabetes Prediction'):0000
-0
-0
-000
-
-    
+if (selected == 'Diabetes Prediction'):
     # page title
     st.subheader('Diabetes Prediction')
     
@@ -265,3 +258,4 @@ def set_bg_from_url(url, opacity=1):
 
 # Set background image from URL
 set_bg_from_url("https://images.everydayhealth.com/homepage/health-topics-2.jpg?w=768", opacity=0.875)
+
